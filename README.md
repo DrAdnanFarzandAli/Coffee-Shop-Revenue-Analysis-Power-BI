@@ -88,8 +88,11 @@ The Coffee Shop Sales Analysis dashboard provides valuable insights into the sal
 Contact
 If you have any questions or suggestions, feel free to reach out:
 
+
 Email: dradnanfarzandali@gmail.com
+
 LinkedIn: Dr. Adnan Farzand Ali (PhD)
+
 Thank you for visiting my Coffee Shop Revenue Analysis Power BI!
 
 
